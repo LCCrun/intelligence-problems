@@ -1,6 +1,6 @@
 # <center>Intelligence Problems</center>
 
-intelligence problems for interviews.
+经典面试智力题整理。
 
 ----
 
